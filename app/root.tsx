@@ -12,7 +12,7 @@ import styles from '~/styles/index.css'
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Insta bio clone, but coole",
+  title: "Insta bio clone, but cooler",
   viewport: "width=device-width,initial-scale=1",
   author: "Rennan Prysthon",
   description: "Sample InstaBio clone app",
